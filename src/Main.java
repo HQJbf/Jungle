@@ -3,6 +3,7 @@ public class Main {
         System.out.println("Hello world!");
 
         //骏哥好巨
+        System.out.println();
     }
     //junjun
 }
